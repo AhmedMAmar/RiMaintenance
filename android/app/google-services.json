@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "867422714906",
+    "project_id": "rimaintenance-b496a",
+    "storage_bucket": "rimaintenance-b496a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867422714906:android:e33f898c18af510f9aa5a3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867422714906-4fs2cjcv2e1favj9or0i67lvq2k2sutl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATMOwu4Hs9s8_JjSFKKMA5kcr6R5L0PMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867422714906-4fs2cjcv2e1favj9or0i67lvq2k2sutl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867422714906:android:91b211191d42c4d69aa5a3",
+        "android_client_info": {
+          "package_name": "com.example.rimaintenance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867422714906-4fs2cjcv2e1favj9or0i67lvq2k2sutl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATMOwu4Hs9s8_JjSFKKMA5kcr6R5L0PMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867422714906-4fs2cjcv2e1favj9or0i67lvq2k2sutl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
